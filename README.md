@@ -1,2 +1,0 @@
-# Lakshya
-Lakshya's repository
