@@ -1,0 +1,182 @@
+@media (min-width: 992px) {
+    p {
+        font-size: 1.4em;
+    }
+
+    .heading h1 {
+        text-align: center;
+    }
+
+    body {
+        padding: 0px;
+        margin: 0px;
+    }
+
+    .container {
+        margin: 1px;
+        padding: 1.5px;
+        margin-left: 1%;
+        margin-right: 1%;
+    }
+
+    .container div {
+        display: inline-block;
+        display: float: left;
+    }
+
+    .ele {
+        width: 29%;
+        padding left: 3px;
+        padding right: 3px;
+        border: 3.5px solid black;
+        margin-left: 1.66%;
+        margin-right: 0.8%;
+        background-color: grey;
+    }
+
+    .container span {
+        margin: 0px;
+        padding: 0px;
+        border: 0px;
+        float: right;
+        font-size: 1.2em;
+        color: white;
+        width: 6em;
+        height: 1.5em;
+    }
+
+    .sp1 {
+        background-color: red;
+    }
+
+    .sp2 {
+        background-color: pink;
+    }
+
+    .sp3 {
+        background-color: blue;
+    }
+}
+@media (min-width: 768px) and (max-width: 991px){
+    p {
+        font-size: 1.4em;
+    }
+
+    .heading h1 {
+        text-align: center;
+    }
+
+    body {
+        padding: 0px;
+        margin: 0px;
+    }
+    .container {
+        margin: 1px;
+        padding: 1.5px;
+        margin-left: 1%;
+        margin-right: 1%;
+    }
+
+    .container div {
+        display: inline-block;
+        display: float: left;
+    }
+    .container span {
+        margin: 0px;
+        padding: 0px;
+        border: 0px;
+        float: right;
+        font-size: 1.2em;
+        color: white;
+        width: 6em;
+        height: 1.5em;
+    }
+
+    .sp1 {
+        background-color: red;
+    }
+
+    .sp2 {
+        background-color: pink;
+    }
+
+    .sp3 {
+        background-color: blue;
+    }
+    #div1{    
+        width: 45%;
+        padding left: 3px;
+        padding right: 3px;
+        border: 3.5px solid black;
+        margin: 1.66%;
+        background-color: grey;            
+    }
+    #div2{                
+        width: 45%;
+        padding left: 3px;
+        padding right: 3px;
+        border: 3.5px solid black;
+        margin: 1.66%;
+        background-color: grey;
+    }
+    #div3{                
+        width: 95%;
+        padding left: 3px;
+        padding right: 3px;
+        border: 3.5px solid black;
+        margin-left: 1.66%;
+        margin-right: 0.8%;
+        background-color: grey;
+    }
+
+}
+@media(max-width: 767px)
+{
+    p {
+        font-size: 1.4em;
+    }
+
+    .heading h1 {
+        text-align: center;
+    }
+
+    body {
+        padding: 0px;
+        margin: 0px;
+    }
+    .container {
+        margin: 1px;
+        padding: 1.5px;
+        margin-left: 1%;
+        margin-right: 1%;
+    }
+    .container span {
+        margin: 0px;
+        padding: 0px;
+        border: 0px;
+        float: right;
+        font-size: 1.2em;
+        color: white;
+        width: 6em;
+        height: 1.5em;
+    }
+    .sp1 {
+        background-color: red;
+    }
+
+    .sp2 {
+        background-color: pink;
+    }
+
+    .sp3 {
+        background-color: blue;
+    }
+    .ele {
+        width: 95%;
+        padding left: 3px;
+        padding right: 3px;
+        border: 3.5px solid black;
+        margin: 1.66%;
+        background-color: grey;
+    }
+}
